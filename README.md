@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm a final year student of information technology<br>🔭 I’m currently working on reservation system on mysqlWorkbench <br>🌱 I'm currently learning:<br>       - Javascript using Brackets<br>       - API integration<br>💬 Ask me about anything, I am happy to help and learn<br>📬 How to reach me: wafiqamrin2@gmail.com
+👨‍🎓 I'm a student of information technology<br>🔭  <br>🌱 I'm currently learning:<br>       - React Natives<br>       - CRON Jobs<br>       - API integration<br>💬 Ask me about anything, I am happy to help and learn<br>📬 How to reach me: wafiqamrin2@gmail.com
 
 
 ## 🌐 Socials:
